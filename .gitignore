@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+
+# Production build
+# build/
+
+# Environment variables
+# .env
+
+# Logs
+logs
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Editor-specific files
+.idea/
+.vscode/
+
+# Optional npm cache directory
+# .npm
+
+# Optional REPL history
+# .node_repl_history

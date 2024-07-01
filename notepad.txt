@@ -1,0 +1,13 @@
+for the login and register page we will be using context API
+in the context folder there will be three files there which are 
+    1. AuthActions.js
+    2. AuthContext.js
+    3. AuthReducer.js
+
+Another thing to note is that when you are creating an onclick function pass e as a prop to prevent the page from refreshing each time we submit
+and write inside the function e.preventDefault();
+
+for any real world project we need state managemnt systems which could be contextAPI, redux, reducers!!
+
+
+we wrap the react app into the <AuthContextProvider> goan check index.js for more
